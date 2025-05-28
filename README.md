@@ -6,11 +6,12 @@ This repository contains my explorations in analyzing and visualizing datasets u
 
 ## 📜 Projects Overview
 
-1. [**Covid-19 Data Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Covid-19%20Data%20Analysis): Analyze global trends and patterns related to the Covid-19 pandemic.
-2. [**Exploring_Pandas_for_Data_Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Exploring_Pandas_for_Data_Analysis): Hands-on practice with data manipulation using Pandas.
-3. [**Plotly_Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Plotly_Analysis): Interactive visualizations showcasing data storytelling using Plotly.
-4. [**Statistical_Data_Visualization**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Statistical_Data_Visualization): Applying statistical methods to represent data graphically.
-5. [**World_Bank_Science_Tech_Data_Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/World_Bank_Science_Tech_Data_Analysis): Exploration of World Bank datasets related to science and technology.
+1. [**Python Data Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/1847b85ac5666e6ffa48a014969cbc719db7ef1b/Python%20Data%20Analysis)): Data Analytics cookbook and follow along practice.
+2. [**Covid-19 Data Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Covid-19%20Data%20Analysis): Analyze global trends and patterns related to the Covid-19 pandemic.
+3. [**Exploring_Pandas_for_Data_Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Exploring_Pandas_for_Data_Analysis): Hands-on practice with data manipulation using Pandas.
+4. [**Plotly_Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Plotly_Analysis): Interactive visualizations showcasing data storytelling using Plotly.
+5. [**Statistical_Data_Visualization**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/Statistical_Data_Visualization): Applying statistical methods to represent data graphically.
+6. [**World_Bank_Science_Tech_Data_Analysis**](https://github.com/VinodAnbalagan/Data_Analytics/tree/bb0017e68e34b88dc70caacfc8320f31261cf262/World_Bank_Science_Tech_Data_Analysis): Exploration of World Bank datasets related to science and technology.
 
 ---
 
